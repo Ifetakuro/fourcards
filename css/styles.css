@@ -91,7 +91,7 @@ a:hover {
     bottom: 500px;
     text-align: left;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
     .class-content {
         width: 60%;
     }
