@@ -96,7 +96,7 @@ a:hover {
         width: 60%;
     }
     .card-box {
-        width: 10%;
+        width: 100%;
     }
     h1 {
         font-size: 1rem;
@@ -121,7 +121,7 @@ a:hover {
     .box-t {
         font-size: 0.5rem;
         height: 150px;
-        margin: 60px 60px 10px 65px;
+        margin: 60px auto 10px;
         padding: 5px;
         position: initial;
         width: 200px;
@@ -130,7 +130,7 @@ a:hover {
     .box-s {
         font-size: 0.5rem;
         height: 150px;
-        margin: 30px 60px 10px 65px;
+        margin: 30px auto 10px;
         position: initial;
         width: 200px;
         padding: 5px;
@@ -138,7 +138,7 @@ a:hover {
     .box-k {
         font-size: 0.5rem;
         height: 150px;
-        margin: 30px 60px 10px 65px;
+        margin: 30px auto 10px;
         position: initial;
         width: 200px;
         padding: 5px;
@@ -146,7 +146,7 @@ a:hover {
     .box-c {
         font-size: 0.5rem;
         height: 150px;
-        margin: 30px 60px 30px 65px;
+        margin: 30px auto 30px;
         position: initial;
         width: 200px;
         padding: 5px;
